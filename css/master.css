@@ -1,0 +1,947 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+.main-photo {
+    
+    
+    background-image:url("..//Images/michael.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    object-fit:cover;
+ 
+    
+   
+   
+    width: 1150px;
+    height: 740px;
+    margin-top: -7px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-top: 1px;
+    padding-left: 30px;
+    
+   
+
+
+}
+
+
+    html {
+       
+       
+        overflow-x: hidden;
+    }
+ 
+.sea-photo {
+    
+    
+    background-image:url("..//Images/mahmoudezzat.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    
+    border-radius: 25px 25px 25px 90px;
+ 
+    
+    
+   
+    width: 1100px;
+    height: 600px;
+    margin-top: -7px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-top: 1px;
+    padding-left: 30px;
+   
+
+
+}
+
+.cloud-photo {
+    
+    border-radius: 25px 25px 25px 90px;
+    background-image:url("..//Images/khaledphoto.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    object-fit:cover;
+ 
+    
+    
+   
+    width: 1100px;
+    height: 600px;
+    margin-top: -7px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-top: 1px;
+    padding-left: 30px;
+   
+
+
+}
+
+.cat-photo {
+    
+    border-radius: 0px 0px 0px 90px;
+    background-image:url("..//Images/cat1.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    
+    background-size:cover;
+    object-fit:cover;
+ 
+    
+    
+   
+    width: 1100px;
+    height: 600px;
+    margin-top: -7px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-top: 1px;
+    padding-left: 30px;
+   
+
+
+}
+
+.inside {
+    background-color: black;
+}
+
+.home {
+    float:right;
+    background-color: rgb(0, 0, 0);
+    padding: 7px;
+    
+   
+    border-radius: 2px;
+    
+    color: white;
+    text-align: center;
+    margin-top: -12px;
+    margin-right: 100px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+ 
+.contain {
+    color:white;
+    
+    padding: 10px;
+    
+
+    
+}
+ .sea-contain {
+    color:rgb(241, 241, 241);
+    
+    padding: 10px;
+    
+
+    
+}
+
+.second-h {
+
+    padding-bottom: 60px;
+    color: rgb(233, 233, 241);
+    border:2px solid rgb(40, 103, 139);
+    border-radius: 15px;
+    width: 450px;
+    height: 100px;
+    padding-left: 25px;
+    margin-bottom: -90px;
+    margin-top:200px
+    
+
+}
+.sea-second-h {
+
+    padding-bottom: 70px;
+    padding-left: 55px;
+    color: rgb(0, 0, 0);
+  
+    border-radius: 7px;
+    width: 200px;
+    height: 70px;
+    margin-bottom: -35px;
+    margin-top:-30px;
+    font-size: 35px;
+
+    
+
+}
+.ok {
+
+    padding-bottom: 60px;
+    color: rgb(0, 0, 0);
+  
+    padding-left: 100px;
+
+    width: 200px;
+    height: 20px;
+    margin-bottom: -20px;
+    margin-top:-80px;
+    font-size: 50px;
+
+    
+
+}
+
+.ok2 {
+
+    padding-bottom: 60px;
+    color: rgb(0, 0, 0);
+  
+    padding-left: 100px;
+
+    width: 200px;
+    height: 20px;
+    margin-bottom: -20px;
+    margin-top:-80px;
+    font-size: 50px;
+
+    
+
+}
+.ok1 {
+
+    padding-bottom: 60px;
+    color: rgb(0, 0, 0);
+  
+    padding-left: 80px;
+
+    width: 200px;
+    height: 20px;
+    margin-bottom: -20px;
+    margin-top:-80px;
+    font-size: 50px;
+
+    
+
+}
+
+
+.char {
+    color: rgb(19, 49, 95);
+    font-size: 55px;
+    margin-top: -103px;
+    margin-left: -35px;
+}
+
+.char1 {
+    color: rgb(71, 44, 2);
+    font-size: 55px;
+    margin-top: -103px;
+    margin-left: -35px;
+}
+
+.char2 {
+    color: rgb(37, 29, 6);
+    font-size: 55px;
+    margin-top: -103px;
+    margin-left: -35px;
+}
+
+
+
+
+
+.sea-cat {
+
+    width: 320px;
+    margin-top: 130px;
+    padding: 10px;
+    border:solid 2px rgb(9, 42, 68);
+    border-radius: 25px 25px 25px 55px;
+
+    
+
+}
+
+.cloud-cat {
+
+    width: 320px;
+    margin-top: 130px;
+    padding: 10px;
+    border:solid 2px rgb(16, 20, 22);
+    border-radius: 25px 25px 25px 55px;
+
+    
+
+}
+
+
+.cat-cat {
+
+    width: 320px;
+    margin-top: 130px;
+    padding: 10px;
+    border:solid 2px rgb(2, 5, 7);
+    border-radius: 25px 25px 25px 55px;
+
+    
+
+}
+
+
+
+
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+      box-sizing: border-box;
+    
+     
+    flex: 33.33%;
+    padding: 5px;
+    margin-left: -5px;
+  }
+
+  .row1 {
+    display: flex;
+  }
+  
+  .column1 {
+     
+    box-sizing: border-box;
+     
+    flex: 50%;
+    padding: 5px;
+    margin-left: -5px;
+  }
+  .column2 {
+    box-sizing: border-box;
+   
+  flex: 50%;
+  padding: 5px;
+  margin-left: -5px;
+  margin-top: -200px;
+}
+.column3 {
+    box-sizing: border-box;
+   
+  flex: 50%;
+  padding: 5px;
+  margin-left: -5px;
+  margin-top: -350px;
+}
+
+  h3 {
+    margin-top: -7px;
+    background-color: rgb(71, 127, 248);
+
+   
+    margin-left: -5px;
+    border-radius: 7px;
+    text-align: center;
+    padding: 2px;
+  
+    font-size: 35px;
+    font-family:monospace;
+    
+  }
+
+  .sea-h3 { 
+    margin-top: 9px;
+    margin-left: -5px;
+    border-radius: 7px;
+    text-align: center;
+    padding: 2px;
+    background-color: rgb(167, 195, 255);
+    font-size: 35px;
+    font-family:monospace;
+  }
+
+  .cloud-h3 { 
+    margin-top: 9px;
+    margin-left: -5px;
+    border-radius: 7px;
+    text-align: center;
+    padding: 2px;
+    color: aliceblue;
+    background-color: rgb(117, 90, 30);
+    font-size: 35px;
+    font-family:monospace;
+  }
+
+  .cat-h3 { 
+    margin-top: 9px;
+    margin-left: -5px;
+    border-radius: 7px;
+    text-align: center;
+    padding: 2px;
+    color: aliceblue;
+    background-color: rgb(24, 18, 6);
+    font-size: 35px;
+    font-family:monospace;
+  }
+  .sara {
+    
+    position:absolute;
+    bottom: -70px;
+    
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
+.farah {
+    
+    position:absolute;
+    bottom: -70px;
+    
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
+.eman {
+    
+    position:absolute;
+    bottom: -70px;
+    
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
+.fady {
+    
+    position:absolute;
+    bottom: -570px;
+    
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
+.reham {
+    
+    position:absolute;
+    bottom: -465px;
+    
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
+
+.ziad {
+    
+    position:absolute;
+    bottom: -870px;
+    
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
+
+.mohsen {
+    
+    position:absolute;
+    bottom: -700px;
+    
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
+
+.nermen {
+    
+    position:absolute;
+    bottom: -1150px;
+    
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
+.sondos {
+    
+    position:absolute;
+    bottom: -1000px;
+    
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
+.nada {
+    
+    position:absolute;
+    bottom: -1000px;
+    left:1000px;
+    
+    background-color: black;
+    color: white;
+  
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
+.abdo {
+    
+    position:absolute;
+    bottom: -1370px;
+    
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
+  
+
+  .footer {
+      width: 100%;
+      padding: 15px;
+      background-color: rgb(117, 116, 116);
+      display:block;
+      color: black;
+      text-align:center;
+      margin-bottom: -10px;
+      margin-top: -7px;
+      font-size: 20px;
+     
+  }
+
+  .dropbtn {
+    
+    background-color: #030303;
+    color: white;
+    padding: 9px;
+    font-size: 16px;
+    border: none;
+    border-radius: 2px;
+    
+   
+
+    
+  }
+
+  .home2 {
+ 
+    background-color: black;
+
+    
+    color: white;
+    
+  
+    margin-right: 800px;
+    margin-left:160px;
+    
+    margin-top: -10px;
+    padding-bottom: -40px;
+  
+    
+   
+
+  }
+  .both {
+
+ 
+    margin-left: 450px;
+    margin-right: 200px;
+    margin-top: -60px;
+    padding:10px;
+    padding-right: 117px;
+    padding-left: 22px;
+    width:200px;
+    height: 15px;
+    border-radius: 7px;
+    
+   
+    border: 2px solid black;
+
+  }
+  
+ 
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #070808;
+    min-width: 106px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 7px;
+    
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: rgb(255, 255, 255);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: rgb(65, 69, 73);}
+  
+  /* Show the dropdown menu on hover */
+  .home2:hover .dropdown-content {display: block;}
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .home2:hover .dropbtn {background-color: #222222;}
+
+
+.kero-photo {
+    transition: .5s ease;
+    backface-visibility: hidden;
+    opacity: 1;
+    display: block;
+}
+
+
+
+.column:hover .kero-photo {
+    opacity:0.7;
+  }
+
+
+  .column:hover .middle {
+      opacity: 1;
+  }
+
+  .middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    
+    left: 10%;
+    margin-bottom: -300px;
+    bottom: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .kerlos {
+    
+    position:absolute;
+    bottom: -640px;
+    right: -125px;
+    
+    
+    border: solid 1px black;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+  
+}
+
+.abdelrahman {
+    
+    position:absolute;
+    bottom: -880px;
+    right: -125px;
+    
+    
+    border: solid 1px black;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+  
+}
+.ezzat {
+    
+    position:absolute;
+    bottom: -1350px;
+    right: -125px;
+    
+    
+    border: solid 1px black;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+  
+}
+
+.nada-hany {
+    
+    position:absolute;
+    bottom: -1650px;
+    right: -125px;
+    
+    
+    border: solid 1px black;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+  
+}
+
+.zeyad-hassan {
+    
+    position:absolute;
+    bottom: -2150px;
+    right: -125px;
+    
+    
+    border: solid 1px black;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+  
+}
+
+.afraim {
+    
+    position:absolute;
+    bottom: -2150px;
+    right: -500px;
+    
+    
+    border: solid 1px black;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+  
+}
+.sondos-akram {
+    
+    position:absolute;
+    bottom: -2150px;
+    right: -825px;
+    
+    
+    border: solid 1px black;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+  
+}
+
+
+.nour {
+    
+    position:absolute;
+    bottom: -1660px;
+    right: -525px;
+    
+    
+    border: solid 1px black;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+  
+}
+
+.farah-yasser {
+    
+    position:absolute;
+    bottom: -1660px;
+    right: -900px;
+    
+    
+    border: solid 1px black;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+  
+}
+
+.sara-1 {
+    
+    position:absolute;
+    bottom: -1350px;
+    right: -500px;
+    
+    
+    border: solid 1px black;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+  
+}
+.eman-moutaz {
+    
+    position:absolute;
+    bottom: -1350px;
+    right: -900px;
+    
+    
+    border: solid 1px black;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+  
+}
+
+.abdelrahman-1 {
+    
+    position:absolute;
+    bottom: -880px;
+    right: -1000px;
+    
+    
+    border: solid 1px black;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+  
+}
+
+.michael {
+    
+    position:absolute;
+    bottom: -640px;
+    right: -500px;
+    
+    
+    border: solid 1px black;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+  
+}
+.michael-2 {
+    
+    position:absolute;
+    bottom: -880px;
+    right: -500px;
+    
+    
+    border: solid 1px black;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+  
+}
+
+.michael-1 {
+    
+    position:absolute;
+    bottom: -640px;
+    right: -900px;
+    
+    
+    border: solid 1px black;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+  
+}
+
+  /* CAT */
+
+
+
+
+
+ Slideshow container
+.slideshow-container {
+  max-width: 700px;
+  padding-left: 200px;
+  position:relative;
+  border-radius: 50px;
+  
+  
+}
+
+
+.mySlides {
+  display:none;
+    
+}
+
+
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+ 
